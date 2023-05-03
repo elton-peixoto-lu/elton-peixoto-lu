@@ -1,7 +1,13 @@
-### Hi there 👋
+
+#### Languages
+
+![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
+
+
 
 <!--
 **elton-peixoto-lu/elton-peixoto-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### Hi there 👋
 
 Here are some ideas to get you started:
 
