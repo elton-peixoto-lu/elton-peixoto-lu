@@ -2,6 +2,8 @@
 #### Languages
 
 ![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
+![ClojureScript](https://img.shields.io/badge/ClojureScript-white)
+
 
 
 
