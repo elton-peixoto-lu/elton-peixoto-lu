@@ -3,8 +3,8 @@
 
 ![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
 
-
-
+#### Job
+![Nubank](https://img.shields.io/badge/NUBANK-8A05BE.svg?&style=for-the-badge&logo=nubank&logoColor=white)
 
 
 <!--
