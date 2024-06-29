@@ -8,20 +8,18 @@
 #### Bootcamps 🎓
 
 **Clojure Bootcamp:**
-    - Provider: Ada & Nubank
-    - Date: Novembro de 2022
-    - Duration: 216 hours
-    - Description: Introduction to functional programming with clojure, pedestal.io, Datomic, and problem-solving
-
- - [Ada & Nubank _ Certificado de Conclusão de Curso.pdf](https://github.com/user-attachments/files/16041723/Ada.Nubank._.Certificado.de.Conclusao.de.Curso.pdf)
+- Provider: Ada & Nubank
+- Date: November, 2022
+- Duration: 216 hours
+- Description: Introduction to functional programming with clojure, pedestal.io, Datomic, and problem-solving
+- [Ada & Nubank _ Certificado de Conclusão de Curso.pdf](https://github.com/user-attachments/files/16041723/Ada.Nubank._.Certificado.de.Conclusao.de.Curso.pdf)
 
 
 **Talento Cloud:**
 - Provider: Talento Cloud, Proz, and AWS
-- Date: Not informed in the certificate
+- Date: May, 2024
 - Description: Introduction to programming, HTML, CSS, JavaScript, and databases, as well as soft skills such as communication, collaboration, and problem-solving.
 - Duration: 300 hours
-
 - [TC19 Certificado Elton Tadeu Luiz.pdf](https://github.com/user-attachments/files/16041720/TC19.Certificado.Elton.Tadeu.Luiz.pdf)
 
 
