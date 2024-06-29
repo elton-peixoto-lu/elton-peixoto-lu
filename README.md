@@ -21,6 +21,7 @@
 - Description: Introduction to programming, HTML, CSS, JavaScript, and databases, as well as soft skills such as communication, collaboration, and problem-solving.
 - Duration: 300 hours
 - [TC19 Certificado Elton Tadeu Luiz.pdf](https://github.com/user-attachments/files/16041720/TC19.Certificado.Elton.Tadeu.Luiz.pdf)
+- Final Project : https://ong-patinhas.github.io/github.io/html/index.html
 
 
 
