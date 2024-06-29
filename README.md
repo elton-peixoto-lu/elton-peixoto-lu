@@ -4,6 +4,27 @@
 [![Clojure](https://img.shields.io/badge/CLOJURE-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)](https://clojure.org/)
 
 
+
+## Bootcamps 🎓
+
+**Clojure Bootcamp:**
+    ***Provider:*** Ada & Nubank
+    ***Date:*** Novembro de 2022
+    ***Duration: 216 hours***
+
+ [Ada & Nubank _ Certificado de Conclusão de Curso.pdf](https://github.com/user-attachments/files/16041723/Ada.Nubank._.Certificado.de.Conclusao.de.Curso.pdf)
+
+
+**Talento Cloud:**
+***Provider: Talento Cloud, Proz, and AWS***
+***Date: Not informed in the certificate***
+***Description: Introduction to programming, HTML, CSS, JavaScript, and databases, as well as soft skills such as communication, collaboration, and problem-solving.***
+***Duration: 300 hours***
+
+[TC19 Certificado Elton Tadeu Luiz.pdf](https://github.com/user-attachments/files/16041720/TC19.Certificado.Elton.Tadeu.Luiz.pdf)
+
+
+
 #### Job
 [![Nubank](https://img.shields.io/badge/NUBANK-8A05BE.svg?&style=for-the-badge&logo=nubank&logoColor=white)](https://nubank.com.br/)
 
