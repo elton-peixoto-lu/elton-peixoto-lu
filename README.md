@@ -16,7 +16,7 @@ Portfólio de fotografia profissional desenvolvido com:
 - **NextAuth.js** para autenticação segura.
 - Funcionalidades como extração de metadados EXIF, scroll infinito, modos claro/escuro e descrições geradas por IA.
 
-### 🧠 [Site Institucional com Integração de IA](https://github.com/seu-usuario/nome-do-repositorio)
+### 🧠 [Site Institucional com Integração de IA](https://www.insidefreecoding.com.br/)
 
 Projeto fullstack que integra:
 
