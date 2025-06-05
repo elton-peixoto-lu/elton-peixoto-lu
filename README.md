@@ -1,5 +1,5 @@
 
-# 👋 Olá, sou Elton Tadeu Luiz
+# 👋 Olá, sou Elton Peixoto
 
 Engenheiro de Software com 4 anos de experiência, especializado em soluções modernas que integram frontend dinâmico, backend robusto e inteligência artificial. Apaixonado por criar aplicações eficientes e escaláveis, sempre buscando aprimorar minhas habilidades e contribuir para projetos inovadores.
 
