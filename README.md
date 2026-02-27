@@ -1,130 +1,153 @@
-# 👋 Olá, sou Elton Peixoto
+# 👋 Hi, I'm Elton Peixoto · Olá, sou Elton Peixoto
 
-Engenheiro de Software com 4 anos de experiência, especializado em **Cloud**, **DevOps**, **SRE** e **Internal Developer Platforms (IDPs)**. Atuo na criação de soluções modernas que integram backend robusto, infraestrutura como código, automações resilientes e observabilidade. Sou apaixonado por construir plataformas escaláveis que otimizam o fluxo de trabalho de times de engenharia, com foco em boas práticas, segurança e eficiência.
-
----
-
-## 🚀 Projetos em Destaque
-
-### 📸 [Photo Vitória](https://photo-vitoria.vercel.app/)
-
-Portfólio de fotografia profissional desenvolvido com:
-
-- **Next.js** e **Tailwind CSS** para um frontend moderno e responsivo.
-- **Vercel Blob** e **Vercel Postgres** para armazenamento e gerenciamento de dados.
-- **NextAuth.js** para autenticação segura.
-- Funcionalidades como extração de metadados EXIF, scroll infinito, modos claro/escuro e descrições geradas por IA.
-
-### 🧠 [Site Institucional com Integração de IA](https://www.insidefreecoding.com.br/)
-
-Projeto fullstack que integra:
-
-- **React** + **Vite** no frontend, com rotas protegidas e integração dinâmica com o backend.
-- **Node.js** + **Express** no backend, com API RESTful e integração com serviços externos e IA.
-- Chat inteligente com respostas geradas por modelos de linguagem.
-- Testes automatizados com **Vitest** (frontend) e **Jest** (backend).
-- CI/CD com **GitHub Actions**, deploy automático no **Render** (backend) e **Vercel** (frontend).
-
----
-
-## 🧰 Habilidades Técnicas
-
-### 🖥️ Linguagens de Programação
-
-![Clojure](https://img.shields.io/badge/Clojure-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-
-### ⚙️ Frameworks e Ferramentas
-
-![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18.svg?style=for-the-badge&logo=Vitest&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
-
-### ☁️ Cloud, DevOps & SRE
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=Terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-3C4C99.svg?style=for-the-badge&logo=Pulumi&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Cloud Custodian](https://img.shields.io/badge/CloudCustodian-FF6B6B?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Pulumi-8B5CF6?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="K8s"/>
+  <img src="https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black" alt="Backstage"/>
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" alt="API Gateway"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
+  <img src="https://img.shields.io/badge/Lambda_Authorizer-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda Authorizer"/>
+  <img src="https://img.shields.io/badge/Cloud_Custodian-1E88E5?style=for-the-badge&logoColor=white" alt="Cloud Custodian"/>
+  <img src="https://img.shields.io/badge/OpenTofu-7B42BC?style=for-the-badge&logoColor=white" alt="OpenTofu"/>
+</p>
 
 ---
 
-## 💼 Experiência Profissional
+## 🇺🇸 ENGLISH
+
+**Senior Platform Engineer** · Cloud Architect · Multi-Cloud Governance · Kubernetes · FinOps
+
+I design and evolve scalable cloud platforms that reduce cognitive load for engineering teams.
+
+With **10+ years** in infrastructure and **6+ years** focused on **Internal Developer Platforms (IDPs)**, I operate at the intersection of:
+
+- ☁️ **Cloud Architecture** (AWS & GCP)
+- 🏗 **Platform Engineering**
+- 🔐 **Cloud Governance & Security Baselines**
+- 📦 **Kubernetes** (EKS, GKE)
+- ⚙ **Infrastructure as Code** (Terraform, Pulumi)
+- 📊 **Observability & Reliability Engineering**
+- 💰 **FinOps-driven cost optimization**
+
+I treat platforms as products — **secure by default**, **automated by design**, and **developer-friendly** by principle.
+
+### 🚀 What I Build
+
+| Area | Highlights |
+|------|------------|
+| **🏗 IDPs** | Service scaffolding with governance guardrails, multi-account baselines, Policy-as-Code (Cloud Custodian), self-service patterns, CI/CD standardization |
+| **☁️ Multi-Cloud K8s** | EKS → GKE migrations, GitOps (ArgoCD), Workload Identity, zero-downtime strategies (Velero), 30–40% cost reduction |
+| **🔐 Governance & FinOps** | Tagging enforcement, automated remediation (Lambda), cost optimization, quota monitoring ("Smoke Detector"), secure-by-default infra |
+
+### 🛠 Technical Stack
+
+**Cloud:** AWS, GCP, BigQuery, IAM, VPC, Organizations  
+**Kubernetes:** EKS, GKE, ArgoCD, Argo Workflows, Velero  
+**IaC:** Terraform, Pulumi  
+**Languages:** Go, Python, Clojure, JavaScript  
+**Observability:** Prometheus, Grafana, Dynatrace, CloudWatch
+
+---
+
+## 🇧🇷 PORTUGUÊS
+
+**Engenheiro de Plataforma Sênior** · Arquiteto Cloud · Governança Multi-Cloud · Kubernetes · FinOps
+
+Projeto e evoluo plataformas cloud escaláveis que reduzem a carga cognitiva dos times de engenharia.
+
+Com **10+ anos** em infraestrutura e **6+ anos** dedicados a **Internal Developer Platforms (IDPs)**, atuo na interseção entre:
+
+- ☁️ **Arquitetura Cloud** (AWS e GCP)
+- 🏗 **Platform Engineering**
+- 🔐 **Governança e Segurança Cloud**
+- 📦 **Kubernetes** (EKS, GKE)
+- ⚙ **Infraestrutura como Código** (Terraform, Pulumi)
+- 📊 **Observabilidade e Confiabilidade**
+- 💰 **Otimização de custos orientada a FinOps**
+
+Encaro plataformas como produtos — **seguras por padrão**, **automatizadas por design** e centradas na **experiência do desenvolvedor**.
+
+### 🚀 O que eu construo
+
+| Área | Destaques |
+|------|------------|
+| **🏗 IDPs** | Scaffolding de serviços com guardrails de governança, baselines multi-conta, Policy-as-Code (Cloud Custodian), infra self-service, padronização de CI/CD |
+| **☁️ K8s Multi-Cloud** | Migrações EKS → GKE, GitOps (ArgoCD), Workload Identity, estratégias zero downtime (Velero), redução de 30–40% de custos |
+| **🔐 Governança e FinOps** | Enforcement de tagging, remediação automatizada (Lambda), otimização de custos, monitoramento de quotas, infra segura por padrão |
+
+---
+
+## 💼 Experiência
+
+[![Raízen](https://img.shields.io/badge/Raizen_Energia-82008F?style=for-the-badge&logoColor=white)](https://www.raizen.com.br)
+
+**Engenheiro de Plataforma Sênior** · _2025 – Presente_
+
+Auxilio times de desenvolvimento com **melhores práticas DevOps** e **DevOps para AWS**. Atuação em **Backstage**: melhoria e implementação de **scaffolding** para serviços; **ArgoCD** e **pipelines**; **OpenTofu** (IaC). Plataforma como produto, automação e padrões seguros para acelerar entrega com qualidade.
+
+---
 
 ![Nubank](https://img.shields.io/badge/Nubank-8A05BE.svg?style=for-the-badge&logo=Nubank&logoColor=white)
 
-**Engenheiro de Software Backend**  
-_Abril de 2021 - Presente (4 anos 3 meses)_
+**Engenheiro de Software / Platform** · _Abril 2021 – 2025 (saída em 2025)_
 
-- Atuação em projetos críticos de **SRE e plataforma**, com foco em automação, governança e confiabilidade em ambientes **multi-conta AWS**.
-- Criação e manutenção de **IDPs internas** (inspiradas no Backstage) para onboarding e gerenciamento de serviços.
-- Desenvolvimento de **baselines de segurança e tagging organizacional com Terraform** e funções Lambda de remediação.
-- Implantação de ferramentas como o **Smoke Detector**, unificando alertas de quota e limites em escala.
-- Contribuições significativas na integração de **Inventários Cloud**, pipelines CI/CD e visualizações com **Python e BigQuery**.
-- Uso intensivo de **Pulumi, Terraform, AWS, Cloud Custodian, Clojure, Go, Python e gRPC**.
+SRE e plataforma em ambientes **multi-conta AWS**; **IDPs** (inspiradas no Backstage); baselines de segurança e tagging com **Terraform** e **Lambda**; **Smoke Detector** para quotas e limites; inventários cloud, CI/CD e **BigQuery**.
 
 ---
 
-## 🏆 Conquistas
+## 🚀 Projetos em destaque
 
-- Especialização em **plataformas internas de desenvolvimento (IDPs)** para automação e governança em larga escala.
-- Criação de **pipelines CI/CD e automações em nuvem** com GitHub Actions, Terraform e Lambdas customizadas.
-- Implantação de soluções de **observabilidade, remediação automatizada e controle de limites de serviço** na AWS.
-- Desenvolvimento de projetos fullstack com integração de IA e automação de processos.
-- Participação ativa em bootcamps renomados, aprimorando habilidades técnicas e soft skills.
+- **[Lab LocalStack + Go](https://github.com/elton-peixoto-lu/lab-localstack-golang)** — API Gateway, Lambda Authorizer, Keycloak (JWT), gateway Go (HTTP + WebSocket). Ambiente de estudo para Platform/API auth.
+- **[Photo Vitória](https://photo-vitoria.vercel.app/)** — Portfólio de fotografia: Next.js, Tailwind, Vercel Blob/Postgres, NextAuth, EXIF, modo escuro.
+- **[Inside Free Coding](https://www.insidefreecoding.com.br/)** — Fullstack (React/Vite + Node/Express), integração com IA, Vitest/Jest, GitHub Actions, Render + Vercel.
 
 ---
 
-## 📚 Artigos Técnicos
+## 📚 Artigos, documentação e posts
 
-- 🧵 **Benchmark de concatenação de strings em Clojure**  
-  [Leia na DIO](https://www.dio.me/articles/benchmark-de-concatenacao-de-strings-em-clojure-75b017975756)  
-  Análise de desempenho entre diferentes formas de concatenar strings em Clojure, com foco em eficiência funcional e uso de memória.
-
-- 📈 **Arquitetura Interna do TSDB – Prometheus**  
-  [Leia na DIO](https://www.dio.me/articles/arquitetura-interna-do-tsdb-prometheus-9c61c55014c8)  
-  Uma visão aprofundada do armazenamento interno do Prometheus, ciclo de vida das métricas e estratégias de performance no TSDB.
+- 🧵 [Benchmark de concatenação de strings em Clojure](https://www.dio.me/articles/benchmark-de-concatenacao-de-strings-em-clojure-75b017975756) (DIO)
+- 📈 [Arquitetura Interna do TSDB – Prometheus](https://www.dio.me/articles/arquitetura-interna-do-tsdb-prometheus-9c61c55014c8) (DIO)
+- 🐧 [Do LS ao Kernel: Camadas de Abstração Linux](https://www.linkedin.com/pulse/do-ls-ao-kernel-camadas-de-abstra%C3%A7%C3%A3o-linux-elton-peixoto-kbbjf/) (LinkedIn)
+- ☁️ [Gerenciando Limites na Nuvem](https://building.nubank.com/pt-br/gerenciando-limites-na-nuvem/) (Nubank Building)
+- 📢 [Cloud for All BR](https://www.linkedin.com/company/cloudforall-br/) — documentação e conteúdo em cloud
 
 ---
 
-## 🎓 Formação e Certificações
+## 🎤 Palestras | Talks
 
-### **Clojure Bootcamp**
-
-- **Provedor:** Ada & Nubank  
-- **Data:** Novembro de 2022  
-- **Duração:** 216 horas  
-- **Certificado:** [Visualizar](https://github.com/user-attachments/files/16041723/Ada.Nubank._.Certificado.de.Conclusao.de.Curso.pdf)
-
-### **Talento Cloud**
-
-- **Provedor:** Talento Cloud, Proz e AWS  
-- **Data:** Maio de 2024  
-- **Duração:** 300 horas  
-- **Certificado:** [Visualizar](https://github.com/user-attachments/files/16041720/TC19.Certificado.Elton.Tadeu.Luiz.pdf)  
-- **Projeto Final:** [ONG Patinhas](https://ong-patinhas.github.io/github.io/html/index.html)
+- **Gerenciando Limites da Nuvem: Estratégias e Melhores Práticas para Sustentar o Crescimento do Nubank**  
+  Meetup de Engenharia de Software, Nubank (04/dez/2024). Com Diogo Dantas.  
+  [Assistir no YouTube](https://www.youtube.com/watch?v=zoJFGlcCSZQ)
 
 ---
 
-## 📫 Contato
+## 🎓 Formação
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/elton-peixoto-914452296/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:pluizelton@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
+- **Clojure Bootcamp** — Ada & Nubank (216h) · [Certificado](https://github.com/user-attachments/files/16041723/Ada.Nubank._.Certificado.de.Conclusao.de.Curso.pdf)
+- **Talento Cloud** — Proz & AWS (300h) · [Certificado](https://github.com/user-attachments/files/16041720/TC19.Certificado.Elton.Tadeu.Luiz.pdf) · [Projeto: ONG Patinhas](https://ong-patinhas.github.io/github.io/html/index.html)
+
+---
+
+## 📫 Contato | Contact
+
+<a href="https://www.linkedin.com/in/elton-peixoto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:pluizelton@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
