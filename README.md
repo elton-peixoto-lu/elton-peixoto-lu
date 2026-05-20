@@ -71,29 +71,19 @@ Developer Experience   -> reduce cognitive load without reducing engineering aut
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/elton-peixoto-lu/wsauthkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elton-peixoto-lu&repo=wsauthkit&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" alt="WSAuthKit repo card" />
-  </a>
-  <a href="https://github.com/elton-peixoto-lu/photo-vitoria">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elton-peixoto-lu&repo=photo-vitoria&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" alt="Photo Vitoria repo card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/elton-peixoto-lu/lab-localstack-golang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elton-peixoto-lu&repo=lab-localstack-golang&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" alt="Lab LocalStack repo card" />
-  </a>
-  <a href="https://github.com/elton-peixoto-lu/inside-free-coding">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elton-peixoto-lu&repo=inside-free-coding&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA" alt="Inside Free Coding repo card" />
-  </a>
-</p>
+| Project | Why it matters |
+|---|---|
+| [WSAuthKit](https://github.com/elton-peixoto-lu/wsauthkit) | Go library for secure WebSocket JWT authentication with support for issuer, audience, JWKS, and handshake-specific token extraction |
+| [Photo Vitoria](https://github.com/elton-peixoto-lu/photo-vitoria) | Real-world product work spanning frontend, admin upload flows, automation, and deployment concerns |
+| [Lab LocalStack + Go](https://github.com/elton-peixoto-lu/lab-localstack-golang) | Platform-focused lab around API Gateway, Lambda Authorizer, Keycloak, Go HTTP, and WebSocket integrations |
+| [Inside Free Coding](https://github.com/elton-peixoto-lu/inside-free-coding) | Full-stack product work with frontend, backend, CI/CD, and practical AI integration |
 
 ## Current snapshot
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elton-peixoto-lu&show_icons=true&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1&icon_color=60A5FA&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elton-peixoto-lu&layout=compact&theme=transparent&hide_border=true&title_color=60A5FA&text_color=CBD5E1" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/elton-peixoto-lu?style=for-the-badge&logo=github&label=Followers&labelColor=0f172a&color=2563eb" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/elton-peixoto-lu?style=for-the-badge&logo=github&label=Stars&labelColor=0f172a&color=2563eb" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Open%20Source-Go%20%7C%20Platform%20%7C%20Cloud-2563eb?style=for-the-badge&labelColor=0f172a" alt="Open source focus" />
 </p>
 
 ## Contribution graph
