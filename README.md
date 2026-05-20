@@ -86,6 +86,14 @@ Developer Experience   -> reduce cognitive load without reducing engineering aut
   <img src="https://img.shields.io/badge/Open%20Source-Go%20%7C%20Platform%20%7C%20Cloud-2563eb?style=for-the-badge&labelColor=0f172a" alt="Open source focus" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elton-peixoto-lu&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideNums=CBD5E1&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elton-peixoto-lu&theme=transparent" alt="GitHub stats summary" />
+</p>
+
 ## Contribution graph
 
 <p align="center">
