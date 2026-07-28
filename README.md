@@ -104,7 +104,7 @@ Developer Experience   -> reduce cognitive load without reducing engineering aut
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=elton-peixoto-lu&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideNums=CBD5E1&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=elton-peixoto-lu&theme=transparent&hide_border=true&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideNums=CBD5E1&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8&card_width=495" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
