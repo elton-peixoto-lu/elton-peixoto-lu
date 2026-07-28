@@ -22,6 +22,16 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="#about-me">About</a> ·
+  <a href="#currently">Currently</a> ·
+  <a href="#toolbox">Toolbox</a> ·
+  <a href="#open-source-footprint">Open Source</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#current-snapshot">Stats</a> ·
+  <a href="#writing-and-talks">Writing</a>
+</p>
+
 ## About me
 
 I build platform capabilities that make delivery faster, safer, and easier for engineering teams.
@@ -40,6 +50,13 @@ Kubernetes             -> EKS, GKE, GitOps, workload identity, zero-downtime rol
 Governance + FinOps    -> policy-as-code, quotas, tagging, remediation, cloud visibility
 Developer Experience   -> reduce cognitive load without reducing engineering autonomy
 ```
+
+## Currently
+
+- 🔭 Building [WSAuthKit](https://github.com/elton-peixoto-lu/wsauthkit) — secure-by-default WebSocket JWT middleware in Go
+- 🌱 Deepening hands-on work with Workload Identity Federation and keyless CI/CD (GitHub Actions ↔ AWS/GCP)
+- ✍️ Writing about platform engineering, cloud governance, and FinOps
+- 💬 Ask me about internal developer platforms, Kubernetes multi-tenancy, or cloud cost governance
 
 ## Toolbox
 
@@ -91,7 +108,12 @@ Developer Experience   -> reduce cognitive load without reducing engineering aut
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elton-peixoto-lu&theme=transparent" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elton-peixoto-lu&theme=transparent" alt="GitHub stats summary" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elton-peixoto-lu&theme=transparent" alt="Repos per language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=elton-peixoto-lu&theme=discord&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub trophies" />
 </p>
 
 ## Contribution graph
@@ -106,6 +128,7 @@ Developer Experience   -> reduce cognitive load without reducing engineering aut
 
 ## Writing and talks
 
+- [GitHub Composite Actions, Workload Identity Federation e Google Cloud Build](https://www.marlonanesi.com.br/blog/github-actions-wif-cloud-build/)
 - [Managing Cloud Limits at Nubank](https://building.nubank.com/pt-br/gerenciando-limites-na-nuvem/)
 - [Prometheus TSDB internal architecture](https://www.dio.me/articles/arquitetura-interna-do-tsdb-prometheus-9c61c55014c8)
 - [String concatenation benchmark in Clojure](https://www.dio.me/articles/benchmark-de-concatenacao-de-strings-em-clojure-75b017975756)
